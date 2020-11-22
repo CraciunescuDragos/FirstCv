@@ -101,7 +101,10 @@ left: 300px;
   }
 
     .fmm{
-      margin-bottom: 50px;
+      
+      width: 30%;
+      margin: 0 auto 50px auto;
+
     }
 
 

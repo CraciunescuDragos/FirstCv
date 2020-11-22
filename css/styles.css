@@ -1,0 +1,129 @@
+  body{
+      color: #40514E;
+    margin: 0;
+    text-align : center;
+    font-family: 'Capriola', cursive;
+  }
+
+  h1{
+    font-size: 5.64rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+
+  }
+  h2{
+    font-size:2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+  }
+  h3{
+    color: #11999E;
+  }
+
+  p{
+        line-height: 2;
+  }
+  hr {
+    border-color: #2dd0d0;
+    border-style: dotted none none;
+    width: 30%;
+    border-width: 5px;
+    margin: 100px auto;
+
+}
+    a{
+      color: #11999E;
+      margin: 10px 20px;
+      font-family:  'Capriola', cursive;
+          text-decoration: none;
+    }
+      a:hover{
+        color: #fbf6f0;
+      }
+  .top-container{
+  background-color: #fbf6f0;
+  position:relative;
+  padding-top: 100px;
+}
+
+
+.bottom-cloud{
+position: absolute;
+bottom: 300px;
+left: 300px;
+
+
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+    .skill-row{
+      width: 50%;
+      margin: 50px auto 100px auto;
+      text-align: left;
+
+    }
+
+    .skill-image{
+      width: 25%;
+      float: left;
+      margin-right: 30px;
+    }
+    .chillies-image{
+      float: right;
+      margin-left: 30px;
+      width: 25%;
+    }
+
+
+
+  .middle-container{
+    margin: 100px 0 50px;
+
+
+}
+
+    .intro{
+
+      width: 30%;
+      margin:auto;
+    }
+  .bottom-container{
+    background-color: #66BFBF;
+    padding-top: 30px;
+
+
+
+  }
+
+    .fmm{
+      margin-bottom: 50px;
+    }
+
+
+    .btn {
+    border-radius: 15px;
+    font-family:  'Capriola', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    background: #66BFBF;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 50px;
+
+  }
+
+ .btn:hover {
+    background: #30e3cb;
+
+    text-decoration: none;
+  }
+  .copyright{
+    color: #fbf6f0;
+    font-size: 0.8rem;
+    padding: 20px 0;
+  }
